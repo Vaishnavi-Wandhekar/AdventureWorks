@@ -1,4 +1,4 @@
-<img width="1078" height="613" alt="image" src="https://github.com/user-attachments/assets/181353fc-297d-4491-9dde-05ef7eb1fdbf" /># AdventureWorks Sales Analytics Dashboard
+# AdventureWorks Sales Analytics Dashboard
 
  📊 Project Overview
 
