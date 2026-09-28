@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analytics Dashboard
+<img width="1078" height="613" alt="image" src="https://github.com/user-attachments/assets/181353fc-297d-4491-9dde-05ef7eb1fdbf" /># AdventureWorks Sales Analytics Dashboard
 
  📊 Project Overview
 
@@ -200,19 +200,13 @@ AdventureWorks-Sales-Analytics/
 
 ### Power BI Dashboard
 
-Add your dashboard screenshot here:
+<img width="1078" height="613" alt="image" src="https://github.com/user-attachments/assets/622ad5dc-0f04-4fb3-b6d7-b037aa4f0948" />
 
-```markdown
-![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
-```
 
 ### Tableau Dashboard
 
-Add your Tableau screenshot here:
+<img width="1482" height="753" alt="image" src="https://github.com/user-attachments/assets/b9cdd180-fdbe-4bf3-8c93-04856d26c573" />
 
-```markdown
-![Tableau Dashboard](Screenshots/Tableau_Dashboard.png)
-```
 
 ---
 
